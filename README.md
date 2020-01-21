@@ -10,5 +10,5 @@ This project is a project for ASC XII Training Center 1. This project uses My-Ri
   <img src="https://user-images.githubusercontent.com/51043477/72828815-042a1980-3cb0-11ea-8066-34fa1a36bab9.jpg" width="350" alt="accessibility text">
 </p>
 
-The demonstration video showed below:
-https://youtu.be/IuHdSqdqlZM
+The demonstration video showed at : https://youtu.be/IuHdSqdqlZM
+CAD can be downloaded at : https://grabcad.com/library/mechanum-omni-directional-mobile-robot-2
